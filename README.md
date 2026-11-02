@@ -8,7 +8,7 @@ Hospedar uma página pessoal simples em um bucket Amazon S3 e compreender o func
 
 ## Arquitetura
 
-![Arquitetura AWS S3](prints/arquitetura.png)
+![Arquitetura AWS S3](prints/Arquitetura.png)
 
 ## O que eu fiz
 
