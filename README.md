@@ -26,7 +26,7 @@ Hospedar uma página pessoal simples em um bucket Amazon S3 e compreender o func
 ![Block to Public ON](prints/Block.png)
 
 ### Site funcionando para público
-![Block to Public OFF](prints/Desblock.Png)
+![Block to Public OFF](prints/Desblock.PNG)
 
 ## O que aprendi
 
