@@ -23,7 +23,7 @@ Hospedar uma página pessoal simples em um bucket Amazon S3 e compreender o func
 ## Prints
 
 ### Site bloqueando acesso para público
-![Block to Public ON](prints/Bloqueado-para-o-Público.png)
+![Block to Public ON](prints/Bloqueado para o Público.png)
 
 ### Site funcionando para público
 ![Block to Public OFF](prints/Desbloqueado-para-o-Público.png)
